@@ -1,5 +1,6 @@
 # terraform_minkube_helm
 
+All prometheus configuration inside the values yaml with receiver webhook. The authentication i did not do it because of i dont have much time for it.
 
 $ terraform init
 
